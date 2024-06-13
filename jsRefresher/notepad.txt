@@ -1,0 +1,9 @@
+objects in js:
+let obj{
+    r=34,
+    m=30
+}
+
+
+jsx have some kind of modifications in js. We have to replace for with htmlFor
+and class with className
